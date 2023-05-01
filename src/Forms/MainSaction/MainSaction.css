@@ -1,0 +1,18 @@
+.top-saction {
+    font-family: sans-serif;
+    font-weight:800;
+    font-size:40px;
+    color: white;
+    text-align: center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:60vh;
+    background-image:url("C:\EDUCAP\frontend\public\images\background_image.png");
+  }
+
+  .contant {
+    line-height: 30px;
+    font-weight: 300;
+    padding-top: 100px;
+  }

@@ -1,0 +1,10 @@
+.wrapper{
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 0em;
+    background-color: rgba(155, 8, 8, 0.897);
+    color: #fff;
+}
